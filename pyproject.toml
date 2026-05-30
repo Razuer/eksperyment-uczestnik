@@ -1,0 +1,6 @@
+[tool.pytest.ini_options]
+testpaths = [
+  "task_implementation",
+  "task_debugging",
+]
+python_files = ["tests_public.py"]

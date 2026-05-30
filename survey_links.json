@@ -1,0 +1,8 @@
+{
+  "pre_survey": "https://docs.google.com/forms/d/e/1FAIpQLSePa6DMJVKOU4s7iNcRZx_wUhVcuKsjpmlMXOqWx5EUpxGnug/viewform",
+  "pre_survey_prefill": "https://docs.google.com/forms/d/e/1FAIpQLSePa6DMJVKOU4s7iNcRZx_wUhVcuKsjpmlMXOqWx5EUpxGnug/viewform?usp=pp_url&entry.1870011416={participant_id}",
+  "post_task": "https://docs.google.com/forms/d/e/1FAIpQLSdZPjC6rsDr4aoeAd0_CBGkS5amtVvz0NNjz9w0103F22eMJg/viewform",
+  "post_task_prefill": "https://docs.google.com/forms/d/e/1FAIpQLSdZPjC6rsDr4aoeAd0_CBGkS5amtVvz0NNjz9w0103F22eMJg/viewform?usp=pp_url&entry.966753448={participant_id}&entry.1637332013={task_number}&entry.1220536299={task_type}&entry.1112186223={mode}",
+  "final_survey": "https://docs.google.com/forms/d/e/1FAIpQLSfbC-AXJCJh5gkHrQeU_nK_LlR01UkLvF0-9Y8Q0dver5g2CQ/viewform",
+  "final_survey_prefill": "https://docs.google.com/forms/d/e/1FAIpQLSfbC-AXJCJh5gkHrQeU_nK_LlR01UkLvF0-9Y8Q0dver5g2CQ/viewform?usp=pp_url&entry.1277358156={participant_id}"
+}
